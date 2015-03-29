@@ -1,1 +1,1 @@
-FROM tutum/mongodb
+FROM anton107/tutum-docker-mongodb
